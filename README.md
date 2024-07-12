@@ -1,0 +1,1 @@
+# scaleway-server-notifier
